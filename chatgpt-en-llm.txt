@@ -1,6 +1,0 @@
-ChatGPT en LLM
-
-ChatGPT is gebaseerd op Generative Pre-trained Transformer (GPT) technologie en is getraind met een enorme dataset, die bestaat uit tekst van websites, internetfora, digitale boeken en ondertiteling van video’s. Bovendien worden menselijke trainers ingezet om dialogen in te spreken om de AI te helpen bij het leren en verbeteren van haar vaardigheden.
-
-Een Large Language Model (LLM) is een computermodel dat specifiek is ontworpen om te werken met taal. Dit type model is getraind met behulp van een zeer grote hoeveelheid tekstdata. LLM’s zijn vaak gebaseerd op neural networks, waardoor ze in staat zijn om taalpatronen op een manier te begrijpen die lijkt op hoe mensen taal verwerken. De grootte van een LLM kan variëren, maar ze zijn vaak veel groter dan traditionele taalmodellen, en vereisen daarom veel rekenkracht en geheugen.
-
