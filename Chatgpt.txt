@@ -1,3 +1,13 @@
+
+Inhoudsopgave
+
+Wat is ChatGPT?
+ChatGPT en LLM
+ChatGPT als productiviteitstool
+Door ChatGPT beter worden in ons werk
+Voorbeelden hoe je ChatGPT kunt gebruiken
+Conclusie ChatGPT
+
 Wat is ChatGPT?
 
 ChatGPT is een website waar je interactie kunt hebben met een razend slimme, 
@@ -25,4 +35,5 @@ antwoord te geven op je vraag én de mogelijkheid om razendsnel volledig nieuwe 
 genereren. Een fantastisch, magisch stuk gereedschap.
 
  
+
 
